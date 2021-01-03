@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Web-Publishing-Project
 
-You can use the [editor on GitHub](https://github.com/jinglinggggg/Web-Publishing-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This was a group project where my team and I designed and developed a webpage about selling products on Shopee using and experimenting with HTML and CSS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction:
 
-### Markdown
+### Members:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Jingling
+- Javier
+- Kah Hao
+- Austin
 
-```markdown
-Syntax highlighted code block
+### Company Background:
 
-# Header 1
-## Header 2
-### Header 3
+We are a company started up by 4 NYP students who are very interested in User Experience (UX) Design. We were curious as to how the design of a retail website can affect a company's sales revenue. Hence, after some detailed analysis of Shopee's website as a group, together with feedback gotten from fellow customers of Shopee, we had developed a passion to help Shopee improve their customer experience. The goal of our company was to improve the usability of Shopee's website, to further improve Shopee's sales. 
 
-- Bulleted
-- List
+### Task Allocation:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jinglinggggg/Web-Publishing-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Jingling - Products page and product description page
+- Javier - Home page
+- Kah Hao - Payment page
+- Austin - Feedback page
